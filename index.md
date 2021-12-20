@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## 珍油美
 
-You can use the [editor on GitHub](https://github.com/nnf0130/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+主要產品項目 : 印加果油系列新開發產品 , 與新品上市的保健食品營養食品
+公司型態 : 進出口貿易商 , 批發商 , OEM、ODM、B2B
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 商品列表
+蟲蔘金棗膏
+[](https://i.imgur.com/PcRiPWJ.jpg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
